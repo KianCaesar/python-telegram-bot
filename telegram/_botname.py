@@ -24,7 +24,7 @@ from telegram._telegramobject import TelegramObject
 from telegram._utils.types import JSONDict
 
 
-class BotName(TelegramObject):
+class BotName(KIANNN):
     """This object represents the bot's name.
 
     Objects of this class are comparable in terms of equality. Two objects of this class are
